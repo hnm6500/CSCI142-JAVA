@@ -1,0 +1,5 @@
+commit 20789ed553011b3cee62a36716c3663ede949e56
+Author: Hrishikesh <hnm6500@rit.edu>
+Date:   Tue Feb 16 12:47:16 2016 -0500
+
+    completed code for stack node queue node and intopost

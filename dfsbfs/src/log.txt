@@ -1,0 +1,23 @@
+commit 136a0530e2335cd5800128c1177c91edc62e23ae
+Author: Hrishikesh <hnm6500@rit.edu>
+Date:   Tue Mar 15 22:14:46 2016 -0400
+
+    finished the lab main
+
+commit 525e56525054ba26faad57b8768f9d1dd73d3066
+Author: Hrishikesh <hnm6500@rit.edu>
+Date:   Tue Mar 15 22:10:16 2016 -0400
+
+    finished the lab
+
+commit 0f5b1cb07909e8a8576cd028c060fee44e02dcfb
+Author: Hrishikesh <hnm6500@rit.edu>
+Date:   Tue Mar 15 22:09:32 2016 -0400
+
+    finished the lab
+
+commit a0575ed4de77274231472e7caab2e528e8dfa42a
+Author: Hrishikesh <hnm6500@rit.edu>
+Date:   Tue Mar 15 20:19:41 2016 -0400
+
+    finished the lab

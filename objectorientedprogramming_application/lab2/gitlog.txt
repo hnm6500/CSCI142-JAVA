@@ -1,0 +1,17 @@
+commit 56e3fa535322eea96c83b05528627af61f203129
+Author: Hrishikesh <hnm6500@rit.edu>
+Date:   Tue Feb 9 16:27:41 2016 -0500
+
+    Have completed methods so far.
+
+commit 9090facb4ddbaab0667f420f053ceafcd692e7b5
+Author: Hrishikesh <hnm6500@rit.edu>
+Date:   Tue Feb 9 15:43:19 2016 -0500
+
+    Have completed methods so far.
+
+commit 5c25ae2eb0e291f66aae518cebef769ae0c7aff7
+Author: Hrishikesh <hnm6500@rit.edu>
+Date:   Tue Feb 9 15:11:57 2016 -0500
+
+    Have completed methods so far.

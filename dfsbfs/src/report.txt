@@ -1,0 +1,68 @@
+1_)
+HollowMan Kevin Bacon
+OneCrazySummer Kevin Bacon
+DaVinciCode John Cusack Kevin Bacon
+AFewGoodMen John Cusack NULL Null
+
+
+reason:no present node connects a null node
+actors name:  Kevin Bacon,John Cusack
+input filename: report
+input: startnode: John Cussack
+endnode: NULL Null
+
+output: NULL Null is not in test.txt
+
+
+
+2_)
+HollowMan John Cusack
+OneCrazySummer John Cusack
+DaVinciCode John Cusack Kevin Bacon
+AFewGoodMen John Cusack
+
+actors name: John Cusack, Kevin Bacon
+input filename: report
+startnode: John Cusack
+endnode: John Cusack
+
+output:Silly! They are in their own movie!
+
+
+3_)
+   HollowMan John Cusack, Arrow
+   OneCrazySummer John Cusack, Sean Bean,
+   DaVinciCode John Cusack Kevin Bacon
+   AFewGoodMen John Cusack
+   Pirates Jack Sparrow Edward Kenway Sean Bean, Arrow
+
+
+input: startnode: John  Cusack
+endnode: Edward Kenway
+
+output:It is possible to get from John Cusack to Edward Kenway in 2 hops:
+       John Cusack who was in OneCrazySummer
+       with Sean Bean who was in Pirates
+       with Edward Kenway
+
+4_)
+   HollowMan
+   OneCrazySummer
+   DaVinciCode
+   AFewGoodMen
+   Pirates
+
+output:  is not a valid node in the graph.
+
+
+5_)
+HollowMan DaVinciCode
+OneCrazySummer AFewGoodMen
+DaVinciCode OneCrazySummer
+AFewGoodMen OneCrazySummer
+Pirates
+
+
+  input:Enter starting node name: HollowMan
+        Enter finishing node name: DaVinciCode
+output: NO PATH exists between HollowMan and DaVinciCode!
